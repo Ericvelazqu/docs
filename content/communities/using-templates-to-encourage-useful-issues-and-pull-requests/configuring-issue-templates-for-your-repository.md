@@ -47,6 +47,8 @@ shortTitle: Configure
 ![Issue template commit to main or open pull request choice](/assets/images/help/repository/issue-template-commit-to-master-or-open-pull-request.png)
 11. Click **Commit changes**. Once these changes are merged into the default branch, the template will be available for contributors to use when they open new issues in the repository.
 
+To make any changes or edits afterwards. Go to the New Issue button, scroll to the bottom, and click Edit Templates. You'll then choose which template you'd like to edit and can propsoe changes. ![Screen Shot 2022-02-10 at 11 03 06 AM](https://user-images.githubusercontent.com/92824518/153446762-776133ce-f69a-4af3-a691-ce453fea2458.png)
+
 {% ifversion fpt or ghec %}
 
 ## Creating issue forms
